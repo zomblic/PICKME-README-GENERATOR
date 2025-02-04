@@ -19,23 +19,23 @@ const questions = [
     {
         type: "input",
         name: "installation",
-        message: colors.magenta("Please provide step by step installation requirements and instructions. Please include any dependencies that are required.")
+        message: colors.magenta("Please provide step by step installation requirements and instructions. You must include any dependencies that are required.")
     },
     {
         type: "input",
         name: "usage",
-        message: colors.yellow("How do we use your project? Provide detailed instructions and, if possible, include screenshots.")
+        message: colors.yellow("How do we use your project? (Think 'How-to') Provide instructions and, if possible, include screenshots.")
     },
     {
         type: "input",
         name: "credits",
-        message: colors.blue("Please list any collaborators and include their links, any third-party assets, or tutorials that you used.")
+        message: colors.blue("Please list any collaborators, third-parrties, tutorials or invdividuals you would like to credit for this project.")
     },
     {
         type: "list",
         name: "license",
         message: colors.magenta("Please choose your license."),
-        choices: ["MIT", "Apache", "GPL", "I don't want one <-never the answer","None"]
+        choices: ["MIT", "Apache", "GPL", "I don't want one <---never the answer","None"]
     },
      
         {
@@ -51,12 +51,12 @@ const questions = [
     {
         type: "input",
         name: "issuesReporting",
-        message: colors.yellow("Please provide the trigger and event for the issue.")    
+        message: colors.yellow("Please provide the trigger and event for the issue. If there isn't any, press enter to continue." )    
     },
     {
         type: "input",
         name: "questions",
-        message: colors.red("Press enter to add your Github username and/or email.")
+        message: colors.red("Press enter to add your Github username and/or email. Press enter to continue.")
     },
     {
         type: "input",

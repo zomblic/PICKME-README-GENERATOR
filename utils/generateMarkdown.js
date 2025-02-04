@@ -75,7 +75,7 @@ ${renderLicenseBadge(data.license)}
 
   ## <span style="color:rgb(72, 12, 182);">How to Contribute</span>
   If you are interested in contributing, please see my contact information in [Questions](#questions).
-  ${data.contributing}
+
 
   
   ## <span style="color:rgb(170, 14, 74);">Tests</span>
@@ -87,9 +87,11 @@ ${renderLicenseBadge(data.license)}
 
  <u>Github Username:</u> ${data.github}
 
- <u>Github Link:</u>
+ <u>Github Link:</u> ${data.githublink}
 
  <u>Email:</u> ${data.yourEmail}
+
+ <u>Other:</u> ${data.Other}
 
  ## <span style="color:rgb(112, 163, 225);">Issues and Bugs</span>
  In reporting an issue, please provide as much detail as possible. Please reach out via the contact info above.
