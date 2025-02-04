@@ -13,6 +13,8 @@
   
 
   ## <span style="color:rgb(158, 66, 160);">Description</span>
+
+  
     This project is a simple and basic readme for all of your beginner needs! When entering code vs, you will be prompted to answer several questions (far too many really) regarding your project and/or assignment. After successfully completing the generator, a new readme will appear in your current folder. Readmes are important to every project, although they can easily be forogtten as we are lost in the code. This generator will help you set up a basic readme which then you can modifty and chagne to your heart's content!
 
 
@@ -37,10 +39,10 @@
 
   ## <span style="color:rgb(225, 112, 112);">Credits</span>
     To the bootcamp for providing the readme for the assignment,
-    Classmates for forming study groups to problem solve and figure it otu,
-    Tutors and Tas for being patient and helping us out,
-    Google (and the many, many, many websites that offered advice, tibits and a variety of coding exmaples),
-    Co-Pilot for identifying debugging and slightly tweaking.
+    Classmates for forming study groups to problem solve and figure it out -- thanks to Matt Mullen for helping the init functions code and overall explaining the basic structure!
+    Tutors (Benecio for going over the readme and making sure the code was good) and Tas for being patient and helping us out,
+    Google (and the many, many, many websites that offered advice, tibits and a variety of coding exmaples-- StackOverflow and GeekdforGeeks mainly),
+    Co-Pilot for identifying debugging and slightly tweaking (not sure how to succesfully cite debugged code tho)
     And Vs Code!
       ... we don't talk about gitbash.
   
