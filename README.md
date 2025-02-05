@@ -14,7 +14,7 @@
 - [Additional Info](#additional-info)
 
   ## <span style="color:rgb(158, 66, 160);">Description</span>
-    [![Watch the video](https://raw.githubusercontent.com/zomblic/PICKME-README-GENERATOR/main/VIDEO EXAMPLE/to/thumbnail.jpg)](https://raw.githubusercontent.comzomblic/PICKME-README-GENERATOR/main/VIDEO EXAMPLE/)
+    [![Watch the video](https://raw.githubusercontent.com/zomblic/PICKME-README-GENERATOR/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/zomblic/PICKME-README-GENERATOR/main/VIDEO-EXAMPLE/video.mv4)
 
 
 
