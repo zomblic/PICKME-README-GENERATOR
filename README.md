@@ -49,7 +49,7 @@
 
  <u>Github Username:</u> zomblic
 
- <u>Github Link:</u> https://github.com/zomblic/PICKME-README-GENERATOR
+ <u>Github Link:</u> https://github.com/zomblic
 
  <u>Email:</u> myemail@myemail.com
 
