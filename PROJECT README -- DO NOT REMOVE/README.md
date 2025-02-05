@@ -14,7 +14,8 @@
 
   ## <span style="color:rgb(158, 66, 160);">Description</span>
 
-    ![Watch the video](https://raw.githubusercontent.com/zomblic/PICKME-README-GENERATOR/main/VIDEO-EXAMPLE/video.mv4)
+  [![Watch the video](https://raw.githubusercontent.com/zomblic/PICKME-README-GENERATOR/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/zomblic/PICKME-README-GENERATOR/main/VIDEO-EXAMPLE/video.mv4)
+
 
     This project is a simple and basic readme for all of your beginner needs! When entering code vs, you will be prompted to answer several questions (far too many really) regarding your project and/or assignment. After successfully completing the generator, a new readme will appear in your current folder. Readmes are important to every project, although they can easily be forogtten as we are lost in the code. This generator will help you set up a basic readme which then you can modifty and chagne to your heart's content!
 
