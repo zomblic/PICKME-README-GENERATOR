@@ -14,7 +14,12 @@
 - [Additional Info](#additional-info)
 
   ## <span style="color:rgb(158, 66, 160);">Description</span>
-    This is where your project description would go. For example, this project is a readme generator to help beginning  coders to develop a healthy habit of creating readmes for all of their projects. It was created because, I too,  also totally and completely forget to make readmes. 
+    [![Watch the video](https://raw.githubusercontent.com/zomblic/PICKME-README-GENERATOR/main/VIDEO EXAMPLE/to/thumbnail.jpg)](https://raw.githubusercontent.comzomblic/PICKME-README-GENERATOR/main/VIDEO EXAMPLE/)
+
+
+
+
+  This is where your project description would go. For example, this project is a readme generator to help beginning  coders to develop a healthy habit of creating readmes for all of their projects. It was created because, I too,  also totally and completely forget to make readmes. 
 
 
   ## <span style="color:rgb(175, 77, 136);">License</span>
